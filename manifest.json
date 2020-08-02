@@ -1,0 +1,13 @@
+{
+  "name": "MASSACRE",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "MASSACRE extension to provide a composite web site authentication security score and related details.",
+  "homepage_url": "https://www.duosecurity.com",
+  "browser_action": {
+    "default_title": "MASSACRE",
+    "default_icon": "icons/massacre.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [ "activeTab" ]
+}
